@@ -1,0 +1,25 @@
+[20-Apr-2015 12:43:45 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 206
+[20-Apr-2015 12:44:59 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 206
+[20-Apr-2015 12:45:21 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 206
+[10-Aug-2015 13:41:26 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:19 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:29 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:33 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:40 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:47 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:42:51 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:43:14 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:43:24 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[10-Aug-2015 13:44:09 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juithost/public_html/register.php on line 158
+[11-Aug-2015 12:46:06 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 57
+[11-Aug-2015 12:46:15 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 57
+[11-Aug-2015 12:47:37 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 18
+[11-Aug-2015 12:48:42 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 18
+[11-Aug-2015 12:48:48 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 18
+[11-Aug-2015 12:50:48 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 210
+[11-Aug-2015 12:51:23 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juithost/public_html/register.php on line 210
+[07-Aug-2016 09:36:59 America/New_York] PHP Parse error:  syntax error, unexpected 'Oops' (T_STRING), expecting ',' or ';' in /home/juithost/public_html/register.php on line 30
+[13-Aug-2016 11:44:43 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/juithost/public_html/mail.php on line 14
+[13-Aug-2016 11:44:58 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/juithost/public_html/mail.php on line 14
+[13-Aug-2016 12:13:08 America/New_York] PHP Parse error:  syntax error, unexpected '*' in /home/juithost/public_html/mail.php on line 16
+[13-Aug-2016 12:27:37 America/New_York] PHP Parse error:  syntax error, unexpected 'message' (T_STRING) in /home/juithost/public_html/mail.php on line 61

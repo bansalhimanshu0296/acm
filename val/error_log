@@ -1,0 +1,6 @@
+[16-Feb-2016 11:45:33 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'juithost'@'localhost' (using password: YES) in /home/juithost/public_html/val/connect.php on line 2
+[16-Feb-2016 11:45:33 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/juithost/public_html/val/connect.php on line 3
+[16-Feb-2016 11:45:33 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/juithost/public_html/val/connect.php on line 3
+[22-Feb-2016 08:16:03 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'juithost'@'localhost' (using password: YES) in /home/juithost/public_html/val/connect.php on line 2
+[22-Feb-2016 08:16:03 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/juithost/public_html/val/connect.php on line 3
+[22-Feb-2016 08:16:03 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/juithost/public_html/val/connect.php on line 3
